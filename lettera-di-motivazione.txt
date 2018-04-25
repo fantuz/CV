@@ -1,0 +1,42 @@
+
+To: MeteoSuisse / MeteoSchweiz
+
+Salve, Buongiorno,
+
+in qualita di esperto amministratore Linux/network/DB e funkamateur 
+con brevetto federale HB3YOE et HED996, sono interessato a proporre la mia 
+candidatura per la posizione di "Senior Linux Systems Engineer" apertasi nel 
+gruppo di Mr. Rolf Oberle (Teamleiter IT Service Delivery).
+
+Se la mia candidatura fosse considerata, sarei ben felice di apportare la mia 
+approfondita conoscenza del kernel Linux al gruppo, unita ad una vasta 
+esperienza in campo networking IP, oltre a quotidiana opera di scripting e 
+automation. Il tutto sempre mantenendo un focus sulle best-practices e sulle 
+metodologie di organizzazione del lavoro.
+
+Grazie a oltre 10 anni di esperienza in varii settori commerciali e pubblici 
+(aviation, medical, research, automotive, telecom) ho acquisito una forte 
+conoscenza a riguardo dei maggiori sistemi di virtualizzazione (xen, kvm, 
+vmware), monitoring (nagios/cacti/zabbix/SNMP), database oracle/mysql/postgres.
+
+In ambito aziendale, imperativo conoscere anche le tecniche per fornire 
+High-Availability (HAproxy,LB) e un piano di DisasterRecovery. Sarei ben lieto 
+di condividere e scambiare opinioni con i membri del team esistente.
+
+Nel dettaglio, le mie piu spiccate skills sono:
+
+ - network debug (avoid TCP retransmissions, exploit window scaling the right way, optimise FRTO)
+ - Linux debug, scripting and automation, containers, virtualisation, production-ready solutions, backups/restore, PITR...
+ - analytical mind (plot, pivot, data visualisation, pattern analysis, database expert)
+ - dynamic, team player, open to dialogue.
+
+Sono disponibile a recarmi a Zurigo per un primo colloquio.
+
+
+
+Cordiali saluti / Cordialement / Mit freundlichen Grüßen
+
+Massimiliano Fantuzzi
++41 76 754 1037
+
+

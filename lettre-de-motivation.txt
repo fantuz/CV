@@ -1,0 +1,37 @@
+
+Bonjour,
+
+Expert en Red Hat depuis la version 4, experience en RH 5 6 et 7, Centos 5/6, Scientific Linux CERN (based on the same RH/CentOS distribution). Security, virtualisation KVM, XEN et OpenStack, stockage, debougage et resolution des tous soucis sur Linux, certifie LPI (equivalent RHCE). Toujours travaille sur Linux (Ubuntu, RH, BSD) ou UNIX (HP-UX et AIX) dans le domaine du IT/internet, ISP et hosting provider, dont Vodaforne, SITA/OnAir et Infomaniak. Expert de routing, DNS, infrastructure reseaux VLAN, trunk, link-aggregation.
+
+Au bénéfice de plus de 12 ans d'expérience dans l'informatique. j'ai eu l'occasion d'acquérir des compétences dans de nombreux domains tels que les bases données, les réseaux, les transmissions radios, Linux et programmation.
+
+En fin, je suis un véritable passionné d'informatique et de technologies, ma curiosité se poursuit jusque dans ma vie personnelle, notamment autour de la transmission radio (license federale HB9) ou encore del'informatisation des donnees obtenus par differents capteurs et sondes..
+
+Actuellement à la recherche d'un nouveau challenge, me permettant de mettre à profit mes compétences dans un environnement professionnel stimulant,
+En qualite de expert administrateur Linux/network/DB et operateur radio avec brevets federales HB9, je vous adresse aujourd'hui ma candidature.
+
+Expert en utilisation logiciels WORD, EXCEL, POWERPOINT, Outlook (et email en general) sur systeme Windows (7-10) et Linux (Debian, Ubuntu, Red Hat).
+
+Tres efficace en debougage et resolution des tous souci sur reseau, certifie en equivalent RHCE.
+
+En detail, mes connaissances les plus specifiques et originelles (tout est bien en evidence dans mon CV):
+ - tres efficace en debougage et resolution des tous souci sur reseau, certifie LPI (equilalent RHCE).
+ - network debug (avoid TCP retransmissions, exploit window scaling the right way, optimise network paths)
+ - Linux devops, scripting et automation: containers, virtualisation, production-ready solutions, backups/restore, DR, PITR...
+ - analytical mind (plot, pivot, data visualisation, pattern analysis, database expert)
+ - experience de support sur differents niveaux (1-2-3) sur environments de production de taille moyenne-grande.
+ - creation des outils logiciels custom en C, PHP, Java, bash, Perl.
+ - j'ai toujours travaille dans des departements orientees aux "Operations" et law enforcement, escalation and emergency response.
+ - fan de l'aviation et de la communication GSM, 3G/4G, ACARS, ADSB, ILS, ARCAL, GPS
+
+A Geneve depuis 5 ans, disponible immediatement, habituee aux astreintes et intervention les nuits et le weekend (inclus deplacements). Francais, Anglais, Italian.
+
+Objectifs moyen-long term: la stabilite, le challenge, la motivation a s'epanouir dans le travail, de continuer d'apprendre et de donner son meilleur effort pour le bon deroulement des operations de migration et de maintenance, soient elles exceptionelles ou regulieres.
+
+Un poste chez ITU va signifier pour moi un plan de vie tres stable, responsabilise et ritme par la motivation au bon deroulement des operations informatiques, soient elles exceptionelles ou regulieres.
+
+En espérant sincèrement que ma candidature aura retenu toute votre attention, je serais ravi d'échanger avec vous de vive voix. Dans l'attente de votre retour, je vous adresse, madame, monsieur, mes meilleures salutations.
+
+
+Massimiliano Fantuzzi
+
