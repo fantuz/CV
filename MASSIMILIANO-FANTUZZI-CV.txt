@@ -1,0 +1,105 @@
+LANGUAGES: ITALIAN (MT) - ENGLISH (C1) - FRENCH (C1)
+
+LINUX: Installation, tuning and maintenance of operating system, kernel modules. Debug, monitoring, tuning. Operation and
+maintenance of systems Debian 3-8 Red Hat 4-7 CentOS 5-7 Ubuntu 7-16 Fedora 15-21, little AIX & HP-UX Virtualization with
+KVM, Xen, OpenStack, VMWare, Vagrant/VBOX/chroot... Data Operations. Expert in ACPI-EFI-PXE and clocking issues
+NETWORKING: IP networks, TCP, streaming protocols, QUIC, radio modulation schemes, image/sound/data transmission,
+tunnels, generation & analysis of signaling in different high-delay (satellite) or as low-latency environments
+PROGRAMMING: Scripting, automation, provisioning, dev/ops, programming with C, Perl, Java, developed crawlers, loggers
+SECURITY: Expert of DNS-over-HTTP, maintenance of LDAP/Radius/Kerberos, storage pools GFS, XFS, NFS, ZFS
+DATABASE: Installation, migration, operation, tuning on PostgreSQL, Oracle and MySQL, replication, services, restore RMAN
+Daily use of: APT/YUM, ldconfig, Apache, NGINX, HAProxy, Docker, sysctl, strace, gdb, make, git,, ip route, tc, ldd, lsof, dig/kdig
+
+CERTIFICATIONS & ACHIEVEMENTS
+2018 IETF / ICANN / Google Hackathon: DNSProxy, invited as early implementor of DNS-over-HTTP draft/standards
+2015-2018 Radio Operator License: HB3 / HB9 for HF VHF UHF coverage with radio apparatus. #sch2 Hackathon
+2011-2018 DNS caching software in C/PHP for DNS-over-HTTPS freedom https://github.com/fantuz/DNSProxy
+2013-2015 Thales Avionics installation training, Cisco CCNA/ICND training, Openstack training and practical usage 
+2010-2013 OCA, Oracle Certified Administrator, OCP, Oracle Certified Professional. Linux Certification (LPI = RHCE)
+since 2008 Teaching Linux courses. Learning C. Attended VMWare virtualization, Cisco CCNA/ICND, SQL Tuning trainings
+
+PROFESSIONAL EXPERIENCES
+[ Jul 2016 – Jul 2017 ] Devops Linux, Network Administrator - INFOMANIAK NETWORK SA, Switzerland [ Hosting, web services ]
+3000+ Debian nodes, 100 network equipment, 1 million mail accounts, 25’mln mails per day, 100’000 websites, 500’000 domains
+Expert on Elasticsearch, Kibana, Logstash, Filebeat, data transformation/integration (30+TB)
+Phishing, virus, scam analysis, pattern detection. On-call duty, 3 datacentres (emergency troubleshooting/debug)
+devops, docker, Git/SVN, Puppet, Nagios/Zabbix, HAProxy/Apache, MySQL, REDIS/MongoDB/RabbitMQ
+Optimizing websites and suggesting best-practices (HTML/CSS/PHP) for HTTP, PageSpeed, HTTP2, HSTS, SPDY
+Tuning on MySQL clients, ~1500 machines rolled-out via Puppet. Docker containers, high-availability
+Live GeoIP, network big-data analysis, iptables u32, traffic capture, debug, DDoS mitigation, post-mortem report
+
+[ June 2016 – July 2016 ] IT architect (temp mission) - POLUSTECH AG, Switzerland [ TLC telco / government ]
+Architecture of Debian & CentOS for the 3G/4G backhaul legal-interception networks in Zug (teaming with vendor Aricent).
+Setup Cisco ASA, VPN schema, IPSEC backhaul tunnel with Albanian MVNO. 3/4G apparatus, rack setup,
+Creation of replicated/failover for SGSN and GGSN using virtualization KVM. (GSM, ISUP, IKE, different traces)
+
+[ Apr 2016 – May 2016 ] Linux & Network Administrator (consulting) - SOPHIAGENETICS SA, Switzerland [ DNA sequencing ]
+Supporting business users, bioinformaticians, IT department and some datacenter hardware operations (SuperMicro)
+docker, Swarm, containerization of services. Migration of common Web Apps (Jira, Confluence, TRAC)
+Cisco ASA, routing decisions, QoS, VPN. Setup 300+TB in XFS/NFS4 and ZFS backup. Perf tuning on XEN/KVM.
+Optimizations/integrations to GPO in order to smoothly join Linux hosts into Active Directory domain (samba)
+
+[ Sep 2014 – July 2015 ] Linux & Network Engineer - CERN, Switzerland/France [ Physics ]
+Maintain a computing cluster of 200 nodes plus Network & Storage architecture. TSM, git/Puppet, Nagios/Cacti, Openstack/KVM
+Responsible for Operations of Fedora/CentOS/Ubuntu servers, the 50+ private users, L3 support to data-taking teams.
+Data migration operations. Dealing with Intensive I/Os = network analysis needed !
+Health monitoring via Nagios/Zabbix/Cacti. Expert on CASTOR tape archive. POC Intel Xeon PHI high capacity TPU
+Architecture of RAID/10 (1+0) for 8GB/sec data taking, multipath 10/40Gbit, LAG (link aggregation), IPMI, PXE, DHCP
+
+[ April 2013 – Jan 2015 ] Senior Oracle Administrator, NOC Operations - ONAIR, Switzerland [ TLC satellite telco & avionics ]
+3 rd level Linux/network support for Engineering & Testing teams, on-call duties... Network analyst on SGSN traces, TCP/IP, Kernel
+Tuning for global Red Hat “Airbus GSM platforms” for an extraordinary quality on Inmarsat’s satellite link.
+3 seconds shortening on TCP establish, benefit for 100 million connections per day! Excellent feedback for my focus on CX
+Create a visualization tool “delays of different satellite regions” from Inmarsat session-data, Honeywell SATCOM.
+Created web tools to measure timing and gather user metadata improving service, outlining trends, discovering behaviors
+Architecture of PostgreSQL and Oracle into HA clusters. Perl, GIS geo-spatial, PLSQL/PGSQL. Data + platform migrations.
+Crawler for meteorological information (trough Meteo France aviation forecast) based on CURL and PDF
+
+[ Oct 2012 – April 2013] ] DBA for DWH, Linux Consultant - SKY TV + Vodafone + Telecom Italia, Italy [ TLC telco business ]
+DWH RAC/Streams/DataGuard/RMAN, Database Migration ~100TB, RHEL, IBM AIX. Excellent feedback received.
+Creation and testing of migration procedures, replayed blindly by Telecom Italia on many other clusters (SNODO)
+Solved an important bug on SKY-Go mobile television application affecting MacOS systems (SKY)
+Participate in setting-up 4G LTE test facility in Vodafone (Bisceglie, Mlano, Italy). Fabric storage bay: HP9500
+
+[ Aug 2012 – Nov 2012] Linux Administrator for ENI IT Operations Group - ENI, Italy [ Oil & Gas ]
+Datacenter operations for VMWare Virtualization VSphere, Oracle 10-11 (SCAN, CRS, RMAN), Red Hat 6-7, Apache, BEA Weblogic
+Analysis of intra/extranet traffic, ensure business-continuity, partition systems based on frequency of access, hot/cold
+Define on-call intervention procedures for Databases, Webservers and Red Hat Linux. Tuning SQL queries
+
+[ Aug 2011 – Aug 2012 ] Technician & Quality Analyst - Teradata, Czech Republic [ IT consultancy ]
+Defined migration strategies, evaluating the impact on operations/business users. Code reviews, tuning SQL/procedure.
+Optimized procedures, translated code from Oracle to Teradata, define specs for calculations, rates and processes
+Contact with business users, teaching about “tables not-well normalized, bad indexing, DataBase theory implementation”
+
+[ Dec 2009 – July 2011 ] Oracle DBA - IBM, Czech Republic [ world’s historically biggest IT company ]
+Carrefour France, China and Africa Operations, on-call team-leader, 10’000 servers, including frontends, clients and core systems.
+Service continuity of database operations on Oracle 10-11. Linux/Unix/Windows. Automation, programming, scheduling
+IBM stack (Domino, AIX, TSM, DB2, LPAR) with open-source and Oracle mix (DRDB, GFS, ACFS2, MySQL)
+
+[ Sep 2007 – Dec 2009 ] Oracle DBA & Linux Administrator – Telecom Italia, Italy [ largest landline & mobile telco ]
+Application Operations department for Law Enforcement Agency. Sensible data handling (call data record, IP, URL), opensource
+products as PostgreSQL, MySQL, SQLite and Oracle. VMWare, RHEL 4/5, HP-UX, Ubuntu, Oracle 9-10, BEA Weblogic, Apache
+Responsible for tools evolution. High level of precision and efficiency. Acquired interest and skill on SQL and pivoting.
+Geo-localization of INMARSAT BGAN users, quality monitoring. Defining Kernel specs when needed (high throughputs)
+Maintained the real-time monitoring on system parameters, status of health and loading streams, alerts and op KPI
+Analysis/tracking of behavioral patterns in criminal action through Apache, IIS, NGINX logs.
+
+[ Sep 2006 – Sep 2007 ] Linux Migration Specialist, Network Administrator, Windows 1st/2nd level support, Italy
+HERA [ Gas & Utilities ] : Migrated ~500 hosts, saving on licensing costs imposed by Microsoft clients and servers !
+Lamborghini [Luxury goods ] : Offered extended support to all company users, receiving very positive feedback
+
+CORE SKILLS / SOFT SKILLS
+- Troubleshooting network issues, monitoring, debug software, network analysis, highFQ/realtime data taking & acquisition
+- Expert on Virtualization (Kernel, scheduler, bottlenecks). Guru for “CPU clock timing issues” and performance sampling/analysis
+- DBA specialized on data migration. SQL tuning, reverse engineer, PGSQL and PLSQL dev, reporting, data mining, audit, plotting
+- Analysis of logs, IP traffic data, web/NETFLOW/TCP, DNS messaging, RF spectrum, DWH/ETL data, testing pipelines
+- Passionate, motivated at problem, incident & change management. Led projects as Engineer, Architect , PM or team-leader
+
+EDUCATION
+2005-2018: Docs for Linux and Networks courses, how-to, LUG, CERN conferences, Hackathons in Geneva & London (IETF)
+1999-2006: Scientific Lycee: Math, Chemistry, Physics, Literature (EN, FR). University of Law in Bologna, not completed
+
+HOBBIES
+Member of HB9G Radio Club Genève. Owning Swiss Federal License for Radio Operator: HB3YOE 2015 & HB9GUS 2018.
+Bricolage on Arduino, Sensors. Apart circuits and microcontrollers, I enjoy sports and open-air activities, especially sailing
+Volunteer for the Couse de l’Escalade since 3 years. Joined volunteer firefighters team in Bellevue. Hackathon in CUI Batelle
